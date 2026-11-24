@@ -34,5 +34,5 @@ npm install
 - **Pruebas ejecutadas:** `npm run test` ejecutado y aprobado correctamente (Vitest y Testing Library).
 - **Build generado correctamente:** Sí (`npm run build` completado sin errores).
 - **Preview comprobado:** Sí (`npm run preview` ejecutado y verificado en navegador: carga de datos, navegación entre listado y detalle, persistencia de favoritos y formulario).
-- **Despliegue realizado:** Sí, publicado en Vercel desde el repositorio de GitHub.
+- **Despliegue realizado:** Sí, publicado en Vercel desde el repositorio de GitHub - https://pulso-abierto-ec5d-seven.vercel.app.
 - **Fecha de verificación:** 24/11/2026
